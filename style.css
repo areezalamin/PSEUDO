@@ -1,0 +1,32 @@
+h2{
+    background-color: aqua;
+}
+div{
+    background-color: tomato;
+}
+p{
+    color:red;
+}
+h1{
+    background-color:seagreen;
+    display:inline;
+    margin-left: 80px;
+}
+a{
+    background-color: yellow;
+    display:block;
+    height: 30px;
+    width: 70px;
+    border:10px solid blue;
+    border-radius: 5px;
+    margin: 30px;
+    padding: 20px;
+}
+span{
+    background-color: blueviolet;
+    display:inline-block;
+    height:100px;
+    width:90px;
+    border-radius: 15px;
+    padding: 29px;
+}
